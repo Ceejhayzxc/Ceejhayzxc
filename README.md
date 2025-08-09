@@ -38,8 +38,8 @@
 - Other: Bootstrap, AdminLTE
 
 ## 📌 Current Projects
-🏡 Digital HOA Resident Platform(Capstone - Ongoing) 
-- A web app for HOA management with announcements, payments, and elections.
+🏡 Digital HOA Resident Platform(Capstone Project - Ongoing) 
+- A platform designed as an innovative web-based system developed to enhance community engagement, governance, and transparency within residential communities. It centralizes and digitizes key HOA operations, empowering both residents and administrators with seamless access to information and services.
   
 ## 📌 Done Projects
 🏡 Tally Sheet and Dashboard for HOA monthly dues 
