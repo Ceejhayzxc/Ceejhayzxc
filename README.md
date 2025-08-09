@@ -16,15 +16,27 @@
     "Continuous Learner"
   ],
   "fields_of_interest": [
-  "Web Application Development",
-  "Homeowners Association (HOA) Management Systems",
-  "Government and Public Service Platforms",
-  "Cybersecurity and Threat Detection",
-  "DevOps, Deployment & Networking"
-]
+    "Web Application Development",
+    "Homeowners Association (HOA) Management Systems",
+    "Government and Public Service Platforms",
+    "Cybersecurity and Threat Detection",
+    "DevOps, Deployment & Networking"
+  ],
   "currently_learning": [
-    "Advanced PHP",
-    "Modern JavaScript",
+    "Python",
+    "MJavaScript",
     "System Architecture"
   ]
 }
+```
+## 🛠 Tech Stack -- BEGINNER -- 
+- Languages: C#, Python, JavaScript, SQL
+- Frameworks: ASP.NET MVC, WinForms
+- Databases: MySQL, SQL Server
+- Tools: Git, Visual Studio, MySQL Workbench, SQL Server Management Studio 21
+- Other: Bootstrap, AdminLTE
+
+## 📌 Current Projects
+🏡 Digital HOA Resident Platform – A web app for HOA management with announcements, payments, and elections.
+## 📌 Done Projects
+🏡 Tally Sheet and Dashboard for HOA monthly dues
