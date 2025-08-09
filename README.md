@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Ceejhay Tolda</h1>
 
-<!--
-**Ceejhayzxc/Ceejhayzxc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Highlights
+- 🎓 4th Year IT Student at PLMUN
+- 🛠 Expertise: **C#, Asp.Net MVC, MySQL**
+- ✅ Open for **Freelance & Collaboration Projects**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+```json
+{
+  "name": "Christian Jorge M. Tolda",
+  "nickname": "Ceejhay",
+  "education": [
+    "4th Year Information Technology Student at Pamantasan ng Lungsod ng Muntinlupa",
+    "Passionate about Software and Web Development",
+    "Continuous Learner"
+  ],
+  "fields_of_interest": [
+  "Web Application Development",
+  "Homeowners Association (HOA) Management Systems",
+  "Government and Public Service Platforms",
+  "Cybersecurity and Threat Detection",
+  "DevOps, Deployment & Networking"
+]
+  "currently_learning": [
+    "Advanced PHP",
+    "Modern JavaScript",
+    "System Architecture"
+  ]
+}
