@@ -24,12 +24,13 @@
   ],
   "currently_learning": [
     "Python",
-    "MJavaScript",
+    "PHP",
+    "JavaScript",
     "System Architecture"
   ]
 }
 ```
-## 🛠 Tech Stack -- BEGINNER -- 
+## 🛠 Tech Stack -- beginner -- 
 - Languages: C#, Python, JavaScript, SQL
 - Frameworks: ASP.NET MVC, WinForms
 - Databases: MySQL, SQL Server
@@ -37,6 +38,9 @@
 - Other: Bootstrap, AdminLTE
 
 ## 📌 Current Projects
-🏡 Digital HOA Resident Platform – A web app for HOA management with announcements, payments, and elections.
+🏡 Digital HOA Resident Platform(Capstone - Ongoing) 
+- A web app for HOA management with announcements, payments, and elections.
+  
 ## 📌 Done Projects
-🏡 Tally Sheet and Dashboard for HOA monthly dues
+🏡 Tally Sheet and Dashboard for HOA monthly dues 
+- A digital tool designed to streamline the tracking and management of monthly dues collected from homeowners in a Homeowners Association (HOA).
